@@ -5,7 +5,7 @@ public class Casa {
 	private int asfasd;
 	
 	/**
-	 * Esto es de prueba, otro cambio
+	 * Esto es de prueba, cambiada
 	 */
 	public void limpiar()
 	{
