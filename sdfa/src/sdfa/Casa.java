@@ -5,11 +5,10 @@ public class Casa {
 	private int asfasd;
 	
 	/**
-	 * Esto es de prueba
+	 * Esto es de prueba, otro cambio
 	 */
 	public void limpiar()
 	{
-		String limp="adskjaslkdjas";
-		System.out.println(limp);
+		System.out.println("adskjaslkdjas");
 	}
 }
